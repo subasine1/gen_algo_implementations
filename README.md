@@ -1,2 +1,2 @@
 # transform_myself
-This is an umpteenth implementation of Attention is All You Need but, hey we all need to learn sometimes
+This is an umpteenth implementation of some classic papers in DL but, hey we all need to learn sometimes
